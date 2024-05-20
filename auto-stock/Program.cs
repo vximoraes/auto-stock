@@ -45,6 +45,8 @@ void ExibirMenu()
         case 4:
             ExcluirItem();
             break;
+        case 5: Sair();
+            break;
     }
 }
 
@@ -155,6 +157,12 @@ void ExcluirItem()
         Console.Write($"\nO item de id '{idItem}' não existe. Aperte qualquer tecla para voltar ao menu principal...");
         VoltarAoMenu();
     }
+}
+
+void Sair(){
+    Console.Write("\nAté Mais!");
+    Thread.Sleep(2000);
+    Environment.Exit(0);
 }
 
 ExibirMenu();
