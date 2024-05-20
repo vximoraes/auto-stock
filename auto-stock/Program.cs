@@ -134,7 +134,7 @@ void ExcluirItem()
     {
         Console.WriteLine($"\nTem certeza que deseja excluir o item '{produtosEstoque[idItem]}'?");
         Console.Write("Digite S para 'sim' ou N para 'não': ");
-        string escolha = Console.ReadLine()!;
+        string escolha = Console.ReadLine()!.ToUpper();
 
         switch (escolha)
         {
