@@ -36,8 +36,3 @@ git clone https://github.com/vximoraes/auto-stock.git
 
 ### Running The Project
 - To run the console application, press ```Ctrl+F5``` or click the ```Start button``` on the toolbar.
-
-##
-
-
-
