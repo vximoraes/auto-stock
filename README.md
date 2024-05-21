@@ -1,5 +1,5 @@
 # Auto parts stock management CRUD
-A simple CRUD to solidify my knowledge about using Dictionaries and Functions.
+A simple CRUD that runs in the console to solidify my knowledge about using Dictionaries and Functions.
 
 ## Technologies
 
@@ -15,5 +15,21 @@ A simple CRUD to solidify my knowledge about using Dictionaries and Functions.
 During this project, I acquired important skills and a better understanding of ideas that were still complex for me, which improved my logical thinking.
 
 ## Running The Project
+### Prerequisites
+- Visual Studio.
+- Git.
+
+### Clone the repository
+- Open Git Bash or any other terminal you prefer.
+- Navigate to the directory where you want to clone the repository.
+
+Run the following command to clone the repository:
+```bash 
+git clone https://github.com/vximoraes/auto-stock.git
+```
+### Opening the Project in Visual Studio
+- From the Home menu, select: ```Open a project or solution```
+- Navigate to the folder where the repository was cloned and open the project's ```.sln``` solution file.
+
 
 
