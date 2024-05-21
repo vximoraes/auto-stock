@@ -1,1 +1,1 @@
-# auto-stock
+# Auto parts stock management CRUD
