@@ -31,5 +31,13 @@ git clone https://github.com/vximoraes/auto-stock.git
 - From the Home menu, select: ```Open a project or solution```
 - Navigate to the folder where the repository was cloned and open the project's ```.sln``` solution file.
 
+### Building Solution
+- From the top menu, select: ```Build > Build Solution``` or press ```Ctrl+Shift+B```
+
+### Running The Project
+- To run the console application, press ```Ctrl+F5``` or click the ```Start button``` on the toolbar.
+
+##
+
 
 
