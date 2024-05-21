@@ -34,5 +34,5 @@ git clone https://github.com/vximoraes/auto-stock.git
 ### Building Solution
 - From the top menu, select: ```Build > Build Solution``` or press ```Ctrl+Shift+B```
 
-### Running The Project
-- To run the console application, press ```Ctrl+F5``` or click the ```Start button``` on the toolbar.
+### Run The Project
+- Press ```Ctrl+F5``` or click the ```Start button``` on the toolbar.
