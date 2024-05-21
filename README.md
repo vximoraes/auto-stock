@@ -1,1 +1,1 @@
-# dictionary-stock
+# auto-stock
