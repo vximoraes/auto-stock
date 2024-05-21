@@ -1,6 +1,8 @@
 # Auto parts stock management CRUD
 A simple CRUD that runs in the console to solidify my knowledge about using Dictionaries and Functions.
 
+https://github.com/vximoraes/auto-stock/assets/127636642/17fbebb4-318a-4006-9e74-c28d2b9307cd
+
 ## Technologies
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
